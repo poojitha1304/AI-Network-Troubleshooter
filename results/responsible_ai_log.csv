@@ -1,0 +1,3 @@
+case_id,ai_diagnosis,human_decision,corrected_diagnosis,reviewer,reason
+2,Required VLAN is missing,Accepted,,revanth,Correct Suggestion
+1,PCs are assigned to different VLANs,Accepted,,revanth,Everything is fine
